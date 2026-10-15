@@ -1,0 +1,8 @@
+{
+  "name": "file-share-js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny file-sharing helpers. Demo target for ProofPatch: intentionally contains several security bugs.",
+  "license": "MIT",
+  "scripts": { "test": "node --test" }
+}
